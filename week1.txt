@@ -1,6 +1,10 @@
 Đây là file week1.txt
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 thuộc branch: week1
 =======
 thuộc branch: week1 ma thoi
 >>>>>>> Stashed changes
+=======
+thuộc branch: week1 va main
+>>>>>>> main
